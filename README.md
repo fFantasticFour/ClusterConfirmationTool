@@ -1,6 +1,6 @@
 # ClusterConfirmationTool
 
-A series of three python scripts for creating a cluster confirmation tool
+A couple python scripts for creating a cluster confirmation tool
 
 You may find the relevant catalogs at
 
